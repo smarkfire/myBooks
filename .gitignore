@@ -1,0 +1,6 @@
+# Word 文件
+*.docx
+*.doc
+
+# todo 文件
+todo.md
