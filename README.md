@@ -120,7 +120,7 @@
 2. 分享给身边想学 AI 的朋友
 3. 有任何建议或勘误，欢迎提 [Issue](https://github.com/smarkfire/myBooks/issues)
 
-<img src="image/alipay.png" width="200" />
+<img src="./image/alipay.png" width="200" />
 
 请扫描二维码，支持作者创作。
 
